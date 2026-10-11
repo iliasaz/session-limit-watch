@@ -74,3 +74,7 @@ long-running sessions usually run in bypass mode. Its prompt is fixed in the scr
 - The banner wording is matched as of Claude Code 2.1.296. If it changes, set the state
   by hand as above and update the pattern in `scripts/limit-watch.sh`.
 - Each ping costs one short Haiku session (a few cents).
+
+## License
+
+MIT. See [LICENSE](LICENSE).
